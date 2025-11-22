@@ -11,7 +11,7 @@ debes seleccionar en el menu con un numero la conversion que deseas realizar y d
 - `Funcionalidad 2`: Comprobacion para evitar que el usuario ingrese letras u algo distinto a numeros
 - `Funcionalidad 3`: Obtencion de los valores de divisas en la API exchangerate.
 - `Funcionalidad 4`: Calculo matematico de la conversion.
-- `Funcionalidad 5`: Creacion de un historial que incluye: fecha, hora, resultado de la conversion y que tipo de conversion de realizo.
+- `Funcionalidad 5`: Creacion de un historial que incluye: fecha, hora, resultado de la conversion y que tipo de conversion se realizo.
 - `Funcionalidad 6`: Comprobacion si el historial no esta vacio.
 ## Acceso al proyecto
 ### Primer metodo.
