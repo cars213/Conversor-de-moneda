@@ -26,7 +26,7 @@ Con git bash ejecutar el siguiente comando
 
 git clone https://github.com/cars213/Conversor-de-moneda.git
 ## Abre y ejecuta el proyecto.
-Ya con el proyecto instalado, se abre con un editor de codigo.
+Ya con el proyecto instalado, se abre con un editor de codigo JAVA.
 
 <img width="594" height="336" alt="image" src="https://github.com/user-attachments/assets/f1383ede-2481-400c-bb4a-ecf840d28332" />
 
