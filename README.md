@@ -1,5 +1,6 @@
 # Conversor-de-moneda
-Desafio Conversos de moneda, curso alura, Java orientado a objetos .
+Desafio Conversos de moneda, curso alura, Java orientado a objetos.
+<img width="590" height="285" alt="image" src="https://github.com/user-attachments/assets/e6c24b7a-3ef2-463c-b2f2-dad0e7a7acec" />
 
 ## Descripción del Proyecto
 Proyecto finalizado, es un conversor de divisas, puedes convertir de dolar a real brasileño, peso colombiano o peso argentino y viceversa,
@@ -11,6 +12,7 @@ debes seleccionar en el menu con un numero la conversion que deseas realizar y d
 - `Funcionalidad 3`: Obtencion de los valores de divisas en la API exchangerate.
 - `Funcionalidad 4`: Calculo matematico de la conversion.
 - `Funcionalidad 5`: Creacion de un historial que incluye: fecha, hora, resultado de la conversion y que tipo de conversion de realizo.
+- `Funcionalidad 6`: Comprobacion si el historial no esta vacio.
 ## Acceso al proyecto
 ### Primer metodo.
 Para descargar el proyecto se realiza click sobre el recuadro rojo (code).
@@ -30,7 +32,7 @@ Ya con el proyecto instalado, se abre con un editor de codigo.
 
 Para iniciar el conversor solo debe escoger una opcion con un numero del 1 al 6.
 
-<img width="277" height="84" alt="image" src="https://github.com/user-attachments/assets/db945380-ba66-4b80-8e4f-dbf736f1226f" />
+<img width="273" height="112" alt="image" src="https://github.com/user-attachments/assets/630f5c00-c41b-4cd1-8eb0-75c72c2c07a9" />
 
 Para ver el historial solo debe seleccionar el numero 7.
 
