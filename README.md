@@ -32,12 +32,11 @@ Ya con el proyecto instalado, se abre con un editor de codigo.
 
 Para iniciar el conversor solo debe escoger una opcion con un numero del 1 al 6.
 
-<img width="273" height="112" alt="image" src="https://github.com/user-attachments/assets/630f5c00-c41b-4cd1-8eb0-75c72c2c07a9" />
+<img width="366" height="89" alt="image" src="https://github.com/user-attachments/assets/8c28528c-0db4-4168-a45b-50dbca14c9bb" />
 
 Para ver el historial solo debe seleccionar el numero 7.
 
-<img width="589" height="72" alt="image" src="https://github.com/user-attachments/assets/cb15542e-82bc-4f94-a37f-7092be29758e" />
-
+<img width="716" height="48" alt="image" src="https://github.com/user-attachments/assets/8a3d62f5-bc78-4149-ae28-305951deca21" />
 
 ## Tecnologias utilizadas
 - JAVA
